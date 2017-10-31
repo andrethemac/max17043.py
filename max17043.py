@@ -2,7 +2,7 @@
 
 """
 max17043 library for MicroPython
-this a lipo battery cells fuel gauge made by maxim
+this is a lipo battery cells fuel gauge made by maxim
 https://datasheets.maximintegrated.com/en/ds/MAX17043-MAX17044.pdf
 small module by sparkfun
 https://www.sparkfun.com/products/10617
